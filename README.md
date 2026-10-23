@@ -50,7 +50,7 @@
 - 💾 Local storage support
 - 📱 Responsive user interface
 
-## 📫 Let's Connect
+## 📫 Let's Connect.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
