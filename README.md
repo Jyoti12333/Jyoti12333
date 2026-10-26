@@ -7,7 +7,7 @@
 - 🌱 Passionate about learning new technologies and solving problems.
 - 🎯 Focused on building responsive and scalable web applications.
 - ⚡ Interested in full-stack development and RESTful APIs.
-- 📍 India 🇮🇳
+- 📍 India 🇮🇳.
 
 ## 🛠️ Tech Stack.
 
