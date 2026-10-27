@@ -40,7 +40,7 @@
 
 - 🔐 User authentication and authorization
 - 📝 Create, read, update, and delete notes
-- 🔒 Secure API endpoints
+- 🔒 Secure API endpoints..
 
 ### ✅ Todo App
 `HTML` `CSS` `JavaScript`
