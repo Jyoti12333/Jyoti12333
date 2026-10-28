@@ -1,7 +1,7 @@
 
 # Hi, I'm Jyoti 👋
 
-## 🚀 About Me
+## 🚀 About Me.
 
 - 💻 MERN Stack Developer.
 - 🌱 Passionate about learning new technologies and solving problems.
